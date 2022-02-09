@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="com.acme.basic.HelloWorldTest" time="0.009" errors="0" skipped="0">
+  <properties>
+    <property name="java.vendor" value="AdoptOpenJDK"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.runtime.version" value="16.0.1+9"/>
+    <property name="user.name" value="PSL3"/>
+    <property name="java.compiler" value="j9jit29"/>
+    <property name="os.encoding" value="UTF8"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="com.ibm.util.extralibs.properties" value=""/>
+    <property name="com.ibm.jcl.checkClassPath" value=""/>
+    <property name="user.language" value="en"/>
+    <property name="com.ibm.oti.vm.bootstrap.library.path" value="C:\Program Files\AdoptOpenJDK\jdk-16.0.1.9-openj9\bin\default;C:\Program Files\AdoptOpenJDK\jdk-16.0.1.9-openj9\bin"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\AdoptOpenJDK\jdk-16.0.1.9-openj9\bin\default;C:\Program Files\AdoptOpenJDK\jdk-16.0.1.9-openj9\bin"/>
+    <property name="classworlds.conf" value="C:\Users\psl3\Desktop\Training\maven\bin\m2.conf"/>
+    <property name="jdk.extensions.version" value="16.0.1.0"/>
+    <property name="java.version" value="16.0.1"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="com.ibm.system.agent.path" value="C:\Program Files\AdoptOpenJDK\jdk-16.0.1.9-openj9\bin"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="com.ibm.oti.vm.library.version" value="29"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="maven.conf" value="C:\Users\psl3\Desktop\Training\maven/conf"/>
+    <property name="java.class.version" value="60.0"/>
+    <property name="user.country" value="US"/>
+    <property name="java.home" value="C:\Program Files\AdoptOpenJDK\jdk-16.0.1.9-openj9"/>
+    <property name="java.vm.info" value="JRE 16 Windows 10 amd64-64-Bit Compressed References 20210421_24 (JIT enabled, AOT enabled)
+OpenJ9   - b4cc246d9
+OMR      - 162e6f729
+JCL      - cea22090ecf based on jdk-16.0.1+9"/>
+    <property name="os.version" value="10.0"/>
+    <property name="jdk.boot.class.path.append" value=""/>
+    <property name="sun.nio.MaxDirectMemorySize" value="3729195008"/>
+    <property name="java.awt.fonts" value=""/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.version" value="openj9-0.26.0"/>
+    <property name="user.variant" value=""/>
+    <property name="sonar.login" value="69da08e60162341ea4f9afbc2fd0c1566b9c57f1"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="jdk.extensions.name" value="Extensions for OpenJDK for Eclipse OpenJ9"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.nio.PageAlignDirectMemory" value="false"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="ibm.signalhandling.sigint" value="true"/>
+    <property name="user.home" value="C:\Users\psl3"/>
+    <property name="com.ibm.cpu.endian" value="little"/>
+    <property name="java.version.date" value="2021-04-20"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="ibm.signalhandling.sigchain" value="true"/>
+    <property name="library.jansi.path" value="C:\Users\psl3\Desktop\Training\maven\lib\jansi-native"/>
+    <property name="java.library.path" value="C:\Program Files\AdoptOpenJDK\jdk-16.0.1.9-openj9\bin\default;C:\Program Files\AdoptOpenJDK\jdk-16.0.1.9-openj9\bin;C:\windows\system32;C:\windows;C:\Users\psl3\Desktop\Training\sonarqube\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Users\psl3\Desktop\Training\sonarqube\bin\windows-x86-64;D:\Installs\Python\3.9.8\Scripts\;D:\Installs\Python\3.9.8\;D:\Installs\Python\Scripts\;D:\Installs\Python\;C:\Program Files\AdoptOpenJDK\jdk-16.0.1.9-openj9\bin;C:\Python39\Scripts\;C:\Python39\;c:\PROGRA~1\ds_shell\code\bin\ds_shell;C:\Oracle12C_64bCli\client_1\bin;C:\Oracle12C_32bCli\client_1\bin;C:\Program Files\Microsoft MPI\Bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;c:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\windows\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\dotnet\;c:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\;c:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\;C:\Program Files\AdoptOpenJDK\jdk-8.0.232.09-openj9\bin;C:\Program Files\Apache Software Foundation\Tomcat 8.5\bin;C:\Program Files\Apache Software Foundation\Tomcat 8.5\bin;C:\Program Files\TortoiseGit\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\PuTTY\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Git\cmd;C:\Users\psl3\Desktop\Training\sonarqube\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;D:\Installs;D:\Installs\Library\mingw-w64\bin;D:\Installs\Library\usr\bin;D:\Installs\Library\bin;D:\Installs\Scripts;C:\Users\psl3\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2021.1.1\bin;;C:\Users\psl3\.dotnet\tools;C:\Users\psl3\AppData\Roaming\npm;C:\Program Files\JetBrains\DataGrip 2021.2.4\bin;;C:\Users\psl3\Desktop\Training\sonar-scanner\bin;C:\Users\psl3\Desktop\Training\maven\bin;;."/>
+    <property name="java.vendor.url" value="https://adoptopenjdk.net/"/>
+    <property name="java.vm.vendor" value="Eclipse OpenJ9"/>
+    <property name="java.fullversion" value="16.0.1+9
+JRE 16 Windows 10 amd64-64-Bit Compressed References 20210421_24 (JIT enabled, AOT enabled)
+OpenJ9   - b4cc246d9
+OMR      - 162e6f729
+JCL      - cea22090ecf based on jdk-16.0.1+9"/>
+    <property name="maven.home" value="C:\Users\psl3\Desktop\Training\maven"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean verify sonar:sonar -Dsonar.login=69da08e60162341ea4f9afbc2fd0c1566b9c57f1"/>
+    <property name="java.class.path" value="C:\Users\psl3\Desktop\Training\maven\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.vm.specification.version" value="16"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.io.tmpdir" value="C:\Users\psl3\AppData\Local\Temp\"/>
+    <property name="java.vendor.url.bug" value="https://github.com/AdoptOpenJDK/openjdk-support/issues"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\psl3\Desktop\Training\sonar-scanning-examples-master\sonarqube-scanner-maven\maven-basic"/>
+    <property name="ibm.system.encoding" value="Cp1252"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="ibm.signalhandling.rs" value="false"/>
+    <property name="user.dir" value="C:\Users\psl3\Desktop\Training\sonar-scanning-examples-master\sonarqube-scanner-maven\maven-basic"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.name" value="Eclipse OpenJ9 VM"/>
+    <property name="com.ibm.oti.shared.enabled" value="false"/>
+    <property name="com.ibm.vm.bitmode" value="64"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.specification.version" value="16"/>
+    <property name="com.ibm.oti.configuration" value="scar"/>
+    <property name="java.vendor.version" value="AdoptOpenJDK-16.0.1+9"/>
+  </properties>
+  <testcase classname="com.acme.basic.HelloWorldTest" name="sayHello" time="0.009"/>
+</testsuite>
